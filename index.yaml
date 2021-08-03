@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  piggydb:
+  - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2021-08-03T16:11:43.1976342-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 5e9a54222aa22edf5fb5df4bbcabcfc21bc443ece95bf473c48db87c3c30a6e1
+    name: piggydb
+    type: application
+    urls:
+    - assets/piggydb-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-08-03T16:11:43.195022-04:00"
