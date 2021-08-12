@@ -75,4 +75,4 @@ pvc:
   accessMode: ReadWriteOnce
   size: 5Gi
   name: jboss-home
-  storageclass: default-sc
+  storageclass: ''
